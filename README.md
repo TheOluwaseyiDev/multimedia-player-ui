@@ -10,5 +10,6 @@ This project is a simple multimedia player interface built using HTML5.
 
 ## Tools Used
 -HTML5.
+
 ##Author
 TheOluwaseyiDev
